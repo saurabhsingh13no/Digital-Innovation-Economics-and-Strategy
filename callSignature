@@ -1,0 +1,125 @@
+
+Prefixes:
+     xsd: http://www.w3.org/2001/XMLSchema
+     ns0: http://woksearch.v3.wokmws.thomsonreuters.com
+
+Global elements:
+     ns0:AuthenticationException(ns0:AuthenticationException)
+     ns0:ESTIWSException(ns0:ESTIWSException)
+     ns0:InternalServerException(ns0:InternalServerException)
+     ns0:InvalidInputException(ns0:InvalidInputException)
+     ns0:QueryException(ns0:QueryException)
+     ns0:SessionException(ns0:SessionException)
+     ns0:citedReferences(ns0:citedReferences)
+     ns0:citedReferencesResponse(ns0:citedReferencesResponse)
+     ns0:citedReferencesRetrieve(ns0:citedReferencesRetrieve)
+     ns0:citedReferencesRetrieveResponse(ns0:citedReferencesRetrieveResponse)
+     ns0:citingArticles(ns0:citingArticles)
+     ns0:citingArticlesResponse(ns0:citingArticlesResponse)
+     ns0:relatedRecords(ns0:relatedRecords)
+     ns0:relatedRecordsResponse(ns0:relatedRecordsResponse)
+     ns0:retrieve(ns0:retrieve)
+     ns0:retrieveById(ns0:retrieveById)
+     ns0:retrieveByIdResponse(ns0:retrieveByIdResponse)
+     ns0:retrieveResponse(ns0:retrieveResponse)
+     ns0:search(ns0:search)
+     ns0:searchResponse(ns0:searchResponse)
+     
+
+Global types:
+     xsd:anyType
+     ns0:AuthenticationException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:ESTIWSException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:FaultInformation(code: xsd:string, message: xsd:string, reason: xsd:string, causeType: xsd:string, cause: xsd:string, supportingWebServiceException: ns0:SupportingWebServiceException, remedy: xsd:string)
+     ns0:InternalServerException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:InvalidInputException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:QueryException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:RawFaultInformation(rawFaultstring: xsd:string, rawMessage: xsd:string, rawReason: xsd:string, rawCause: xsd:string, rawRemedy: xsd:string, messageData: xsd:string[])
+     ns0:SessionException(faultInformation: ns0:FaultInformation, rawFaultInformation: ns0:RawFaultInformation)
+     ns0:SupportingWebServiceException(remoteNamespace: xsd:string, remoteOperation: xsd:string, remoteCode: xsd:string, remoteReason: xsd:string, handshakeCauseId: xsd:string, handshakeCause: xsd:string)
+     ns0:citedReference(uid: xsd:string, docid: xsd:string, articleId: xsd:string, citedAuthor: xsd:string, timesCited: xsd:string, year: xsd:string, page: xsd:string, volume: xsd:string, citedTitle: xsd:string, citedWork: xsd:string, hot: xsd:string)
+     ns0:citedReferences(databaseId: xsd:string, uid: xsd:string, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:citedReferencesResponse(return: ns0:citedReferencesSearchResults)
+     ns0:citedReferencesRetrieve(queryId: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:citedReferencesRetrieveResponse(return: ns0:citedReference[])
+     ns0:citedReferencesSearchResults(queryId: xsd:string, references: ns0:citedReference[], recordsFound: xsd:int, recordsSearched: xsd:long)
+     ns0:citingArticles(databaseId: xsd:string, uid: xsd:string, editions: ns0:editionDesc[], timeSpan: ns0:timeSpan, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:citingArticlesResponse(return: ns0:fullRecordSearchResults)
+     ns0:editionDesc(collection: xsd:string, edition: xsd:string)
+     ns0:fullRecordData(optionValue: ns0:labelValuesPair[], records: xsd:string)
+     ns0:fullRecordSearchResults(queryId: xsd:string, recordsFound: xsd:int, recordsSearched: xsd:long, parent: xsd:string, optionValue: ns0:labelValuesPair[], records: xsd:string)
+     ns0:keyValuePair(key: xsd:string, value: xsd:string)
+     ns0:labelValuesPair(label: xsd:string, value: xsd:string[])
+     ns0:queryParameters(databaseId: xsd:string, userQuery: xsd:string, editions: ns0:editionDesc[], symbolicTimeSpan: xsd:string, timeSpan: ns0:timeSpan, queryLanguage: xsd:string)
+     ns0:relatedRecords(databaseId: xsd:string, uid: xsd:string, editions: ns0:editionDesc[], timeSpan: ns0:timeSpan, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:relatedRecordsResponse(return: ns0:fullRecordSearchResults)
+     ns0:retrieve(queryId: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:retrieveById(databaseId: xsd:string, uid: xsd:string[], queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters)
+     ns0:retrieveByIdResponse(return: ns0:fullRecordSearchResults)
+     ns0:retrieveParameters(firstRecord: xsd:int, count: xsd:int, sortField: ns0:sortField[], viewField: ns0:viewField[], option: ns0:keyValuePair[])
+     ns0:retrieveResponse(return: ns0:fullRecordData)
+     ns0:search(queryParameters: ns0:queryParameters, retrieveParameters: ns0:retrieveParameters)
+     ns0:searchResponse(return: ns0:fullRecordSearchResults)
+     ns0:sortField(name: xsd:string, sort: xsd:string)
+     ns0:timeSpan(begin: xsd:string, end: xsd:string)
+     ns0:viewField(collectionName: xsd:string, fieldName: xsd:string[])
+     xsd:ENTITIES
+     xsd:ENTITY
+     xsd:ID
+     xsd:IDREF
+     xsd:IDREFS
+     xsd:NCName
+     xsd:NMTOKEN
+     xsd:NMTOKENS
+     xsd:NOTATION
+     xsd:Name
+     xsd:QName
+     xsd:anySimpleType
+     xsd:anyURI
+     xsd:base64Binary
+     xsd:boolean
+     xsd:byte
+     xsd:date
+     xsd:dateTime
+     xsd:decimal
+     xsd:double
+     xsd:duration
+     xsd:float
+     xsd:gDay
+     xsd:gMonth
+     xsd:gMonthDay
+     xsd:gYear
+     xsd:gYearMonth
+     xsd:hexBinary
+     xsd:int
+     xsd:integer
+     xsd:language
+     xsd:long
+     xsd:negativeInteger
+     xsd:nonNegativeInteger
+     xsd:nonPositiveInteger
+     xsd:normalizedString
+     xsd:positiveInteger
+     xsd:short
+     xsd:string
+     xsd:time
+     xsd:token
+     xsd:unsignedByte
+     xsd:unsignedInt
+     xsd:unsignedLong
+     xsd:unsignedShort
+
+Bindings:
+     Soap11Binding: {http://woksearch.v3.wokmws.thomsonreuters.com}WokSearchServiceSoapBinding
+
+Service: WokSearchService
+     Port: WokSearchPort (Soap11Binding: {http://woksearch.v3.wokmws.thomsonreuters.com}WokSearchServiceSoapBinding)
+         Operations:
+            citedReferences(databaseId: xsd:string, uid: xsd:string, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:citedReferencesSearchResults
+            citedReferencesRetrieve(queryId: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:citedReference[]
+            citingArticles(databaseId: xsd:string, uid: xsd:string, editions: ns0:editionDesc[], timeSpan: ns0:timeSpan, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:fullRecordSearchResults
+            relatedRecords(databaseId: xsd:string, uid: xsd:string, editions: ns0:editionDesc[], timeSpan: ns0:timeSpan, queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:fullRecordSearchResults
+            retrieve(queryId: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:fullRecordData
+            retrieveById(databaseId: xsd:string, uid: xsd:string[], queryLanguage: xsd:string, retrieveParameters: ns0:retrieveParameters) -> return: ns0:fullRecordSearchResults
+            search(queryParameters: ns0:queryParameters, retrieveParameters: ns0:retrieveParameters) -> return: ns0:fullRecordSearchResults
+

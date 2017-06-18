@@ -1,0 +1,8 @@
+<html><head><title>Shibboleth Authentication Request</title></head><body onload="EZproxyCheckBack()"><form name="EZproxyForm" method="POST" action="https://neuidmsso.neu.edu/idp/profile/SAML2/POST/SSO"><input type="hidden" name="RelayState" value="ezp.2aHR0cDovL2FwcHMud2Vib2Zrbm93bGVkZ2UuY29tL1VBX0dlbmVyYWxTZWFyY2hfaW5wdXQuZG8.cHJvZHVjdD1VQQ--">
+<input type="hidden" name="SAMLRequest" value="PHNhbWxwOkF1dGhuUmVxdWVzdCBEZXN0aW5hdGlvbj0iaHR0cHM6Ly9uZXVpZG1zc28ubmV1LmVkdS9pZHAvcHJvZmlsZS9TQU1MMi9QT1NUL1NTTyIgSUQ9Il8xNDk3NzM5ODIwMjMxMDkwIiBJc3N1ZUluc3RhbnQ9IjIwMTctMDYtMTdUMjI6NTA6MjBaIiBWZXJzaW9uPSIyLjAiIHhtbG5zOnNhbWxwPSJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6cHJvdG9jb2wiPjxzYW1sOklzc3VlciB4bWxuczpzYW1sPSJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YXNzZXJ0aW9uIj5odHRwczovL2xvZ2luLmV6cHJveHkubmV1LmVkdTwvc2FtbDpJc3N1ZXI+PHNhbWxwOk5hbWVJRFBvbGljeSBBbGxvd0NyZWF0ZT0iMSIvPjwvc2FtbHA6QXV0aG5SZXF1ZXN0Pgo=">
+If your browser does not continue automatically, click <input type="submit" value="here">
+</form><form name="EZproxyTrack"><input type="hidden" name="back" value="1"><script language="JavaScript">
+<!--
+function EZproxyCheckBack() {  var goForward = (document.EZproxyTrack.back.value==1);  document.EZproxyTrack.back.value=2;  document.EZproxyTrack.back.defaultValue=2;  if (goForward) { document.EZproxyForm.submit(); }}
+-->
+</script></body></html>
