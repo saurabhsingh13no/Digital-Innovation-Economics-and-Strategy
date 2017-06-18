@@ -15,7 +15,7 @@ def main():
     infile = open(file)
     contents = infile.read()
     json=convertXMLToJson(contents)
-    print (json)
+    return json
 
 
 
