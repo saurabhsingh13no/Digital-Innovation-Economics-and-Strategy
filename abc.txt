@@ -1,0 +1,1102 @@
+<?xml version="1.0" ?>
+<records>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000260501200007</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SCI"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="SEP 2008" has_abstract="Y" issue="4" pubmonth="SEP" pubtype="Journal" pubyear="2008" sortdate="2008-09-01" vol="11">
+					<page begin="295" end="303" page_count="9">295-303</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">ARCHIVES OF WOMENS MENTAL HEALTH</title>
+					<title type="source_abbrev">ARCH WOMEN MENT HLTH</title>
+					<title type="abbrev_iso">Arch. Womens Ment. Health</title>
+					<title type="abbrev_11">ARCH WOMENS</title>
+					<title type="abbrev_29">ARCH WOMENS MENT HEALTH</title>
+					<title type="item">Experiences of immigrant new mothers with symptoms of depression</title>
+				</titles>
+				<names count="5">
+					<name addr_no="1" daisng_id="199297" role="author" seq_no="1">
+						<display_name>Ahmed, Amal</display_name>
+						<full_name>Ahmed, Amal</full_name>
+						<wos_standard>Ahmed, A</wos_standard>
+						<first_name>Amal</first_name>
+						<last_name>Ahmed</last_name>
+					</name>
+					<name addr_no="1" dais_id="1161390" daisng_id="1000418762" reprint="Y" role="author" seq_no="2">
+						<display_name>Stewart, Donna E.</display_name>
+						<full_name>Stewart, Donna E.</full_name>
+						<wos_standard>Stewart, DE</wos_standard>
+						<first_name>Donna E.</first_name>
+						<last_name>Stewart</last_name>
+						<email_addr>donna.stewart@uhn.on.ca</email_addr>
+					</name>
+					<name addr_no="1" daisng_id="34110106" role="author" seq_no="3">
+						<display_name>Teng, Lilly</display_name>
+						<full_name>Teng, Lilly</full_name>
+						<wos_standard>Teng, L</wos_standard>
+						<first_name>Lilly</first_name>
+						<last_name>Teng</last_name>
+					</name>
+					<name addr_no="2" daisng_id="85129400" role="author" seq_no="4">
+						<display_name>Wahoush, Olive</display_name>
+						<full_name>Wahoush, Olive</full_name>
+						<wos_standard>Wahoush, O</wos_standard>
+						<first_name>Olive</first_name>
+						<last_name>Wahoush</last_name>
+					</name>
+					<name addr_no="3" daisng_id="10880401" role="author" seq_no="5">
+						<display_name>Gagnon, Anita J.</display_name>
+						<full_name>Gagnon, Anita J.</full_name>
+						<wos_standard>Gagnon, AJ</wos_standard>
+						<first_name>Anita J.</first_name>
+						<last_name>Gagnon</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Article</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA</full_address>
+							<city>WIEN</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>SPRINGER WIEN</display_name>
+								<full_name>SPRINGER WIEN</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Article</doctype>
+				</normalized_doctypes>
+				<refs count="16"/>
+				<addresses count="3">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Hlth Network, Womens Hlth Program, Toronto, ON M5G 2C4, Canada</full_address>
+							<organizations count="2">
+								<organization>Univ Hlth Network</organization>
+								<organization pref="Y">University of Toronto</organization>
+							</organizations>
+							<suborganizations count="1">
+								<suborganization>Womens Hlth Program</suborganization>
+							</suborganizations>
+							<city>Toronto</city>
+							<state>ON</state>
+							<country>Canada</country>
+							<zip location="AP">M5G 2C4</zip>
+						</address_spec>
+						<names count="3">
+							<name addr_no="1" daisng_id="199297" role="author" seq_no="1">
+								<display_name>Ahmed, Amal</display_name>
+								<full_name>Ahmed, Amal</full_name>
+								<wos_standard>Ahmed, A</wos_standard>
+								<first_name>Amal</first_name>
+								<last_name>Ahmed</last_name>
+							</name>
+							<name addr_no="1" dais_id="1161390" daisng_id="1000418762" reprint="Y" role="author" seq_no="2">
+								<display_name>Stewart, Donna E.</display_name>
+								<full_name>Stewart, Donna E.</full_name>
+								<wos_standard>Stewart, DE</wos_standard>
+								<first_name>Donna E.</first_name>
+								<last_name>Stewart</last_name>
+								<email_addr>donna.stewart@uhn.on.ca</email_addr>
+							</name>
+							<name addr_no="1" daisng_id="34110106" role="author" seq_no="3">
+								<display_name>Teng, Lilly</display_name>
+								<full_name>Teng, Lilly</full_name>
+								<wos_standard>Teng, L</wos_standard>
+								<first_name>Lilly</first_name>
+								<last_name>Teng</last_name>
+							</name>
+						</names>
+					</address_name>
+					<address_name>
+						<address_spec addr_no="2">
+							<full_address>McMaster Univ, Hamilton, ON, Canada</full_address>
+							<organizations count="2">
+								<organization>McMaster Univ</organization>
+								<organization pref="Y">McMaster University</organization>
+							</organizations>
+							<city>Hamilton</city>
+							<state>ON</state>
+							<country>Canada</country>
+						</address_spec>
+						<names count="1">
+							<name addr_no="2" daisng_id="85129400" role="author" seq_no="4">
+								<display_name>Wahoush, Olive</display_name>
+								<full_name>Wahoush, Olive</full_name>
+								<wos_standard>Wahoush, O</wos_standard>
+								<first_name>Olive</first_name>
+								<last_name>Wahoush</last_name>
+							</name>
+						</names>
+					</address_name>
+					<address_name>
+						<address_spec addr_no="3">
+							<full_address>McGill Univ, Montreal, PQ, Canada</full_address>
+							<organizations count="2">
+								<organization>McGill Univ</organization>
+								<organization pref="Y">McGill University</organization>
+							</organizations>
+							<city>Montreal</city>
+							<state>PQ</state>
+							<country>Canada</country>
+						</address_spec>
+						<names count="1">
+							<name addr_no="3" daisng_id="10880401" role="author" seq_no="5">
+								<display_name>Gagnon, Anita J.</display_name>
+								<full_name>Gagnon, Anita J.</full_name>
+								<wos_standard>Gagnon, AJ</wos_standard>
+								<first_name>Anita J.</first_name>
+								<last_name>Gagnon</last_name>
+							</name>
+						</names>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Hlth Network, Womens Hlth Program, 200 Elizabeth St,EN7-229, Toronto, ON M5G 2C4, Canada</full_address>
+							<organizations count="2">
+								<organization>Univ Hlth Network</organization>
+								<organization pref="Y">University of Toronto</organization>
+							</organizations>
+							<suborganizations count="1">
+								<suborganization>Womens Hlth Program</suborganization>
+							</suborganizations>
+							<street>200 Elizabeth St,EN7-229</street>
+							<city>Toronto</city>
+							<state>ON</state>
+							<country>Canada</country>
+							<zip location="AP">M5G 2C4</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Stewart, Donna E.</display_name>
+								<full_name>Stewart, Donna E.</full_name>
+								<wos_standard>Stewart, DE</wos_standard>
+								<first_name>Donna E.</first_name>
+								<last_name>Stewart</last_name>
+								<email_addr>donna.stewart@uhn.on.ca</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Science &amp; Technology</heading>
+					</headings>
+					<subheadings count="1">
+						<subheading>Life Sciences &amp; Biomedicine</subheading>
+					</subheadings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="VE">Psychiatry</subject>
+						<subject ascatype="extended">Psychiatry</subject>
+						<subject ascatype="traditional">PSYCHIATRY, SCI</subject>
+					</subjects>
+				</category_info>
+				<keywords count="4">
+					<keyword>Immigrantnew mothers</keyword>
+					<keyword>Depression symptoms</keyword>
+					<keyword>Help-seeking</keyword>
+					<keyword>Qualitative</keyword>
+				</keywords>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>Refugee, asylum seeking, non-refugee, and immigrant new mothers with depressive symptoms, were interviewed in a qualitative study to better understand their (a) experiences and attributions of depressive symptoms, (b) their experiences with health care providers and support services, (c) factors that facilitated or hindered help seeking, (d) factors that aided recovery or (e) were associated with women continuing to experience symptoms of depression. Ten immigrant new mothers who scored 10 or over on the Edinburgh Postpartum Depression Scale shortly after giving birth, participated 12 to 18 months later in postpartum semi-structured interviews which were taped, transcribed and analyzed using a constant comparative approach. Many women attributed their depressive symptoms to social isolation, physical changes, feeling overwhelmed and financial worries. They had poor knowledge of community services. Barriers to care included stigma, embarrassment, language, fear of being labeled an unfit mother, or the attitude of some staff. Facilitators to recovery included social support from friends, partners and family, community support groups, &quot;getting out of the house&quot;, or personal psychological adjustment. Personal and systematic barriers exist in new immigrant mothers obtaining care for symptoms of depression. Suggestions for improvements are offered.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">366RN</ids>
+				<bib_id>11 (4): 295-303 SEP 2008</bib_id>
+				<keywords_plus count="6">
+					<keyword>IMMEDIATE POSTPARTUM PERIOD</keyword>
+					<keyword>POSTNATAL DEPRESSION</keyword>
+					<keyword>WOMEN</keyword>
+					<keyword>RISK</keyword>
+					<keyword>AUSTRALIA</keyword>
+					<keyword>SCALE</keyword>
+				</keywords_plus>
+			</item>
+			<contributors count="1">
+				<contributor>
+					<name orcid_id="0000-0002-8157-7746" r_id="J-2844-2016" role="researcher_id" seq_no="1">
+						<display_name>Stewart, Donna Eileen</display_name>
+						<full_name>Stewart, Donna Eileen</full_name>
+						<first_name>Donna Eileen</first_name>
+						<last_name>Stewart</last_name>
+					</name>
+				</contributor>
+			</contributors>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="43"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="1434-1816"/>
+					<identifier type="doi" value="10.1007/s00737-008-0025-6"/>
+					<identifier type="xref_doi" value="10.1007/s00737-008-0025-6"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000259436700017</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.ISTP"/>
+					<edition value="WOS.SCI"/>
+				</EWUID>
+				<pub_info coverdate="SEP 2008" has_abstract="Y" issue="9" pubmonth="SEP" pubtype="Journal" pubyear="2008" sortdate="2008-09-01" vol="43">
+					<page begin="157" end="168" page_count="12">157-168</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">ACM SIGPLAN NOTICES</title>
+					<title type="source_abbrev">ACM SIGPLAN NOTICES</title>
+					<title type="abbrev_iso">ACM Sigplan Not.</title>
+					<title type="abbrev_11">ACM SIGPL N</title>
+					<title type="abbrev_29">ACM SIGPLAN NOTICES</title>
+					<title type="item">Typed closure conversion preserves observational equivalence</title>
+				</titles>
+				<names count="2">
+					<name addr_no="1" daisng_id="199917" reprint="Y" role="author" seq_no="1">
+						<display_name>Ahmed, Amal</display_name>
+						<full_name>Ahmed, Amal</full_name>
+						<wos_standard>Ahmed, A</wos_standard>
+						<first_name>Amal</first_name>
+						<last_name>Ahmed</last_name>
+						<email_addr>amal@tti-c.org</email_addr>
+					</name>
+					<name addr_no="1" daisng_id="3234026" role="author" seq_no="2">
+						<display_name>Blume, Matthias</display_name>
+						<full_name>Blume, Matthias</full_name>
+						<wos_standard>Blume, M</wos_standard>
+						<first_name>Matthias</first_name>
+						<last_name>Blume</last_name>
+						<email_addr>blume@tti-c.org</email_addr>
+					</name>
+				</names>
+				<doctypes count="2">
+					<doctype>Article</doctype>
+					<doctype>Proceedings Paper</doctype>
+				</doctypes>
+				<conferences count="1">
+					<conference conf_id="250269">
+						<conf_infos count="1">
+							<conf_info>13th ACM SIGPLAN International Conference on Functional Programming, SEP 22-24, 2008, Victoria, CANADA</conf_info>
+						</conf_infos>
+						<conf_titles count="1">
+							<conf_title>13th ACM SIGPLAN International Conference on Functional Programming</conf_title>
+						</conf_titles>
+						<conf_dates count="1">
+							<conf_date conf_end="20080924" conf_start="20080922">SEP 22-24, 2008</conf_date>
+						</conf_dates>
+						<conf_locations count="1">
+							<conf_location>
+								<conf_city>Victoria</conf_city>
+								<conf_state>CANADA</conf_state>
+							</conf_location>
+						</conf_locations>
+						<sponsors count="1">
+							<sponsor>ACM SIGPLAN</sponsor>
+						</sponsors>
+					</conference>
+				</conferences>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA</full_address>
+							<city>NEW YORK</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>ASSOC COMPUTING MACHINERY</display_name>
+								<full_name>ASSOC COMPUTING MACHINERY</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="2">
+					<doctype>Article</doctype>
+					<doctype>Meeting</doctype>
+				</normalized_doctypes>
+				<refs count="29"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Toyota Technol Inst, Chicago, IL 60637 USA</full_address>
+							<organizations count="1">
+								<organization>Toyota Technol Inst</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+							<zip location="AP">60637</zip>
+						</address_spec>
+						<names count="2">
+							<name addr_no="1" daisng_id="199917" reprint="Y" role="author" seq_no="1">
+								<display_name>Ahmed, Amal</display_name>
+								<full_name>Ahmed, Amal</full_name>
+								<wos_standard>Ahmed, A</wos_standard>
+								<first_name>Amal</first_name>
+								<last_name>Ahmed</last_name>
+								<email_addr>amal@tti-c.org</email_addr>
+							</name>
+							<name addr_no="1" daisng_id="3234026" role="author" seq_no="2">
+								<display_name>Blume, Matthias</display_name>
+								<full_name>Blume, Matthias</full_name>
+								<wos_standard>Blume, M</wos_standard>
+								<first_name>Matthias</first_name>
+								<last_name>Blume</last_name>
+								<email_addr>blume@tti-c.org</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Toyota Technol Inst, Chicago, IL 60637 USA</full_address>
+							<organizations count="1">
+								<organization>Toyota Technol Inst</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+							<zip location="AP">60637</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Ahmed, Amal</display_name>
+								<full_name>Ahmed, Amal</full_name>
+								<wos_standard>Ahmed, A</wos_standard>
+								<first_name>Amal</first_name>
+								<last_name>Ahmed</last_name>
+								<email_addr>amal@tti-c.org</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Science &amp; Technology</heading>
+					</headings>
+					<subheadings count="1">
+						<subheading>Technology</subheading>
+					</subheadings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="EW">Computer Science, Software Engineering</subject>
+						<subject ascatype="extended">Computer Science</subject>
+						<subject ascatype="traditional" code="EW">COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+					</subjects>
+				</category_info>
+				<keywords count="6">
+					<keyword>languages</keyword>
+					<keyword>security</keyword>
+					<keyword>equivalence-preserving compilation</keyword>
+					<keyword>full abstraction</keyword>
+					<keyword>step-indexed logical relations</keyword>
+					<keyword>typed closure conversion</keyword>
+				</keywords>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="3">
+							<p>Language-based security relies on the assumption that all potential attacks are bound by the rules of the language in question. When programs are compiled into a different language, this is true only if the translation process preserves observational equivalence.</p>
+							<p>We investigate the problem of fully abstract compilation, i.e., compilation that both preserves and reflects observational equivalence. In particular, we prove that typed closure conversion for the polymorphic lambda-calculus with existential and recursive types is fully abstract. Our proof uses operational techniques in the form of a step-indexed logical relation and construction of certain wrapper terms that &quot;back-translate&quot; from target values to source values.</p>
+							<p>Although typed closure conversion has been assumed to be fully abstract, we are not aware of any previous result that actually proves this.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="N">351PP</ids>
+				<bib_id>43 (9): 157-168 SEP 2008</bib_id>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="3"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0362-1340"/>
+					<identifier type="xref_doi" value="10.1145/1411203.1411227"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000256500600030</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SCI"/>
+					<edition value="WOS.ISTP"/>
+				</EWUID>
+				<pub_info coverdate="JAN 2008" has_abstract="Y" issue="1" pubmonth="JAN" pubtype="Journal" pubyear="2008" sortdate="2008-01-01" special_issue="SI" vol="43">
+					<page begin="309" end="322" page_count="14">309-322</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">ACM SIGPLAN NOTICES</title>
+					<title type="source_abbrev">ACM SIGPLAN NOTICES</title>
+					<title type="abbrev_iso">ACM Sigplan Not.</title>
+					<title type="abbrev_11">ACM SIGPL N</title>
+					<title type="abbrev_29">ACM SIGPLAN NOTICES</title>
+					<title type="item">Imperative self-adjusting computation</title>
+				</titles>
+				<names count="3">
+					<name addr_no="1" dais_id="10116952" daisng_id="468375" reprint="Y" role="author" seq_no="1">
+						<display_name>Acar, Umut A.</display_name>
+						<full_name>Acar, Umut A.</full_name>
+						<wos_standard>Acar, UA</wos_standard>
+						<first_name>Umut A.</first_name>
+						<last_name>Acar</last_name>
+						<email_addr>umut@tti-c.org</email_addr>
+					</name>
+					<name addr_no="1" dais_id="1373072" daisng_id="199917" role="author" seq_no="2">
+						<display_name>Ahmed, Amal</display_name>
+						<full_name>Ahmed, Amal</full_name>
+						<wos_standard>Ahmed, A</wos_standard>
+						<first_name>Amal</first_name>
+						<last_name>Ahmed</last_name>
+						<email_addr>amal@tti-c.org</email_addr>
+					</name>
+					<name addr_no="1" daisng_id="3234026" role="author" seq_no="3">
+						<display_name>Blume, Matthias</display_name>
+						<full_name>Blume, Matthias</full_name>
+						<wos_standard>Blume, M</wos_standard>
+						<first_name>Matthias</first_name>
+						<last_name>Blume</last_name>
+						<email_addr>blume@tti-c.org</email_addr>
+					</name>
+				</names>
+				<doctypes count="2">
+					<doctype>Article</doctype>
+					<doctype>Proceedings Paper</doctype>
+				</doctypes>
+				<conferences count="1">
+					<conference conf_id="246935">
+						<conf_infos count="1">
+							<conf_info>35th Annual ACM SIGPLAN/SIGACT Symposium on Principles of Programming Language, JAN 10-12, 2008, San Francisco, CA</conf_info>
+						</conf_infos>
+						<conf_titles count="1">
+							<conf_title>35th Annual ACM SIGPLAN/SIGACT Symposium on Principles of Programming Language</conf_title>
+						</conf_titles>
+						<conf_dates count="1">
+							<conf_date conf_end="20080112" conf_start="20080110">JAN 10-12, 2008</conf_date>
+						</conf_dates>
+						<conf_locations count="1">
+							<conf_location>
+								<conf_city>San Francisco</conf_city>
+								<conf_state>CA</conf_state>
+							</conf_location>
+						</conf_locations>
+						<sponsors count="3">
+							<sponsor>ACM SIGPLAN</sponsor>
+							<sponsor>ACM SIGACT</sponsor>
+							<sponsor>Intel, Microsoft Res</sponsor>
+						</sponsors>
+					</conference>
+				</conferences>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA</full_address>
+							<city>NEW YORK</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>ASSOC COMPUTING MACHINERY</display_name>
+								<full_name>ASSOC COMPUTING MACHINERY</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="2">
+					<doctype>Article</doctype>
+					<doctype>Meeting</doctype>
+				</normalized_doctypes>
+				<refs count="42"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Toyota Technol Inst, Chicago, IL USA</full_address>
+							<organizations count="1">
+								<organization>Toyota Technol Inst</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+						</address_spec>
+						<names count="3">
+							<name addr_no="1" dais_id="10116952" daisng_id="468375" reprint="Y" role="author" seq_no="1">
+								<display_name>Acar, Umut A.</display_name>
+								<full_name>Acar, Umut A.</full_name>
+								<wos_standard>Acar, UA</wos_standard>
+								<first_name>Umut A.</first_name>
+								<last_name>Acar</last_name>
+								<email_addr>umut@tti-c.org</email_addr>
+							</name>
+							<name addr_no="1" dais_id="1373072" daisng_id="199917" role="author" seq_no="2">
+								<display_name>Ahmed, Amal</display_name>
+								<full_name>Ahmed, Amal</full_name>
+								<wos_standard>Ahmed, A</wos_standard>
+								<first_name>Amal</first_name>
+								<last_name>Ahmed</last_name>
+								<email_addr>amal@tti-c.org</email_addr>
+							</name>
+							<name addr_no="1" daisng_id="3234026" role="author" seq_no="3">
+								<display_name>Blume, Matthias</display_name>
+								<full_name>Blume, Matthias</full_name>
+								<wos_standard>Blume, M</wos_standard>
+								<first_name>Matthias</first_name>
+								<last_name>Blume</last_name>
+								<email_addr>blume@tti-c.org</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Toyota Technol Inst, Chicago, IL USA</full_address>
+							<organizations count="1">
+								<organization>Toyota Technol Inst</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" dais_id="10116952" reprint="Y" role="author" seq_no="1">
+								<display_name>Acar, Umut A.</display_name>
+								<full_name>Acar, Umut A.</full_name>
+								<wos_standard>Acar, UA</wos_standard>
+								<first_name>Umut A.</first_name>
+								<last_name>Acar</last_name>
+								<email_addr>umut@tti-c.org</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Science &amp; Technology</heading>
+					</headings>
+					<subheadings count="1">
+						<subheading>Technology</subheading>
+					</subheadings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="EW">Computer Science, Software Engineering</subject>
+						<subject ascatype="extended">Computer Science</subject>
+						<subject ascatype="traditional" code="EW">COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+					</subjects>
+				</category_info>
+				<keywords count="11">
+					<keyword>languages</keyword>
+					<keyword>design</keyword>
+					<keyword>semantics</keyword>
+					<keyword>algorithms</keyword>
+					<keyword>self-adjusting computation</keyword>
+					<keyword>incremental computation</keyword>
+					<keyword>step-indexed logical relations</keyword>
+					<keyword>imperative programming</keyword>
+					<keyword>change propagation</keyword>
+					<keyword>memoization</keyword>
+					<keyword>mutable state</keyword>
+				</keywords>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="2">
+							<p>Self-adjusting computation enables writing programs that can automatically and efficiently respond to changes to their data (e. g., inputs). The idea behind the approach is to store all data that can change over time in modifiable references and to let computations construct traces that can drive change propagation. After changes have occurred, change propagation updates the result of the computation by re-evaluating only those expressions that depend on the changed data. Previous approaches to self-adjusting computation require that modifiable references be written at most once during execution-this makes the model applicable only in a purely functional setting.</p>
+							<p>In this paper, we present techniques for imperative self-adjusting computation where modifiable references can be written multiple times. We define a language SAIL (Self-Adjusting Imperative Language) and prove consistency, i.e., that change propagation and from-scratch execution are observationally equivalent. Since SAIL programs are imperative, they can create cyclic data structures. To prove equivalence in the presence of cycles in the store, we formulate and use an untyped, step-indexed logical relation, where step indices are used to ensure well-foundedness. We show that SAIL accepts an asymptotically efficient implementation by presenting algorithms and data structures for its implementation. When the number of operations (reads and writes) per modifiable is bounded by a constant, we show that change propagation becomes as efficient as in the non-imperative case. The general case incurs a slowdown that is logarithmic in the maximum number of such operations. We describe a prototype implementation of SAIL as a Standard ML library.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="N">310AF</ids>
+				<bib_id>43 (1): 309-322 Sp. Iss. SI JAN 2008</bib_id>
+				<bib_pagecount type="Journal">435</bib_pagecount>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="6"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0362-1340"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000254600800002</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.ISTP"/>
+				</EWUID>
+				<pub_info coverdate="2008" has_abstract="Y" pubtype="Book in series" pubyear="2008" sortdate="2008-01-01" vol="4960">
+					<page begin="16" end="+" page_count="3">16-+</page>
+				</pub_info>
+				<titles count="7">
+					<title type="source">PROGRAMMING LANGUAGES AND SYSTEMS, PROCEEDINGS</title>
+					<title type="series">Lecture Notes in Computer Science</title>
+					<title type="source_abbrev">LECT NOTES COMPUT SC</title>
+					<title type="abbrev_11">LECT N COMP</title>
+					<title type="abbrev_29">LECT NOTE COMPUT SCI</title>
+					<title type="item">Parametric polymorphism through run-time sealing or, theorems for low, low prices!</title>
+					<title translated="N" type="book_series">Lecture Notes in Computer Science</title>
+				</titles>
+				<names count="3">
+					<name addr_no="1" daisng_id="11173247" reprint="Y" role="author" seq_no="1">
+						<display_name>Matthews, Jacob</display_name>
+						<full_name>Matthews, Jacob</full_name>
+						<wos_standard>Matthews, J</wos_standard>
+						<first_name>Jacob</first_name>
+						<last_name>Matthews</last_name>
+						<email_addr>jacobm@cs.uchicago.edu</email_addr>
+					</name>
+					<name addr_no="2" daisng_id="199917" role="author" seq_no="2">
+						<display_name>Ahmed, Amal</display_name>
+						<full_name>Ahmed, Amal</full_name>
+						<wos_standard>Ahmed, A</wos_standard>
+						<first_name>Amal</first_name>
+						<last_name>Ahmed</last_name>
+						<email_addr>amal@tti-c.org</email_addr>
+					</name>
+					<name role="book_editor" seq_no="3">
+						<display_name>Drossopoulou, S</display_name>
+						<full_name>Drossopoulou, S</full_name>
+						<wos_standard>Drossopoulou, S</wos_standard>
+						<first_name>S</first_name>
+						<last_name>Drossopoulou</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Proceedings Paper</doctype>
+				</doctypes>
+				<conferences count="1">
+					<conference conf_id="244669">
+						<conf_infos count="1">
+							<conf_info>17th European Symposium on Programming (ESOP 2008), MAR 29-APR 06, 2008, Budapest, HUNGARY</conf_info>
+						</conf_infos>
+						<conf_titles count="1">
+							<conf_title>17th European Symposium on Programming (ESOP 2008)</conf_title>
+						</conf_titles>
+						<conf_dates count="1">
+							<conf_date conf_end="20080406" conf_start="20080329">MAR 29-APR 06, 2008</conf_date>
+						</conf_dates>
+						<conf_locations count="1">
+							<conf_location>
+								<conf_city>Budapest</conf_city>
+								<conf_state>HUNGARY</conf_state>
+							</conf_location>
+						</conf_locations>
+					</conference>
+				</conferences>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY</full_address>
+							<city>BERLIN</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>SPRINGER-VERLAG BERLIN</display_name>
+								<full_name>SPRINGER-VERLAG BERLIN</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Meeting</doctype>
+				</normalized_doctypes>
+				<refs count="16"/>
+				<addresses count="2">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Chicago, Chicago, IL 60637 USA</full_address>
+							<organizations count="2">
+								<organization>Univ Chicago</organization>
+								<organization pref="Y">University of Chicago</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+							<zip location="AP">60637</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" daisng_id="11173247" reprint="Y" role="author" seq_no="1">
+								<display_name>Matthews, Jacob</display_name>
+								<full_name>Matthews, Jacob</full_name>
+								<wos_standard>Matthews, J</wos_standard>
+								<first_name>Jacob</first_name>
+								<last_name>Matthews</last_name>
+								<email_addr>jacobm@cs.uchicago.edu</email_addr>
+							</name>
+						</names>
+					</address_name>
+					<address_name>
+						<address_spec addr_no="2">
+							<full_address>Toyota Technol Inst, Chicago, IL 60637 USA</full_address>
+							<organizations count="1">
+								<organization>Toyota Technol Inst</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+							<zip location="AP">60637</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="2" daisng_id="199917" role="author" seq_no="2">
+								<display_name>Ahmed, Amal</display_name>
+								<full_name>Ahmed, Amal</full_name>
+								<wos_standard>Ahmed, A</wos_standard>
+								<first_name>Amal</first_name>
+								<last_name>Ahmed</last_name>
+								<email_addr>amal@tti-c.org</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Chicago, Chicago, IL 60637 USA</full_address>
+							<organizations count="2">
+								<organization>Univ Chicago</organization>
+								<organization pref="Y">University of Chicago</organization>
+							</organizations>
+							<city>Chicago</city>
+							<state>IL</state>
+							<country>USA</country>
+							<zip location="AP">60637</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Matthews, Jacob</display_name>
+								<full_name>Matthews, Jacob</full_name>
+								<wos_standard>Matthews, J</wos_standard>
+								<first_name>Jacob</first_name>
+								<last_name>Matthews</last_name>
+								<email_addr>jacobm@cs.uchicago.edu</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Science &amp; Technology</heading>
+					</headings>
+					<subheadings count="1">
+						<subheading>Technology</subheading>
+					</subheadings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="EW">Computer Science, Software Engineering</subject>
+						<subject ascatype="traditional" code="EX">Computer Science, Theory &amp; Methods</subject>
+						<subject ascatype="extended">Computer Science</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>We show how to extend System F's parametricity guarantee to a Matthews-Findier-style multi-language system that combines System F with an untyped language by use of dynamic sealing. While the use of sealing for this purpose has been suggested before, it has never been proven to preserve parametricity. In this paper we prove that it does using step-indexed logical relations. Using this result we show a scheme for implementing parametric higher-order contracts in an untyped setting which corresponds to a translation given by Sumii and Pierce. These contracts satisfy rich enough guarantees that we can extract analogues to Wadler's free theorems that rely on run-time enforcement of dynamic seals.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="N">BHN77</ids>
+				<bib_id>4960: 16-+ 2008</bib_id>
+				<bib_pagecount type="Book">397</bib_pagecount>
+				<book_pages>397</book_pages>
+				<book_notes count="1">
+					<book_note>Figures</book_note>
+				</book_notes>
+				<book_desc>
+					<bk_binding>S</bk_binding>
+					<bk_publisher>SPRINGER-VERLAG NEW YORK, MS INGRID CUNNINGHAM, 175 FIFTH AVE, NEW YORK, NY 10010 USA</bk_publisher>
+					<bk_prepay>Y</bk_prepay>
+					<bk_ordering>US, CANADA &amp; MEXICO ORDER FROM SPRINGER-VERLAG NEW YORK INC., P.O. BOX 2485, SECAUCUS, N.J. 07094. ELSEWHERE ORDER FROM SPRINGER-VERLAG, P.O. BOX 31 13 40, 10643 BERLIN, GERMANY.</bk_ordering>
+				</book_desc>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="11"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0302-9743"/>
+					<identifier type="isbn" value="978-3-540-78738-9"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000253792300109</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SCI"/>
+				</EWUID>
+				<pub_info coverdate="JAN 2008" has_abstract="N" pubmonth="JAN" pubtype="Journal" pubyear="2008" sortdate="2008-01-01" supplement="S" vol="121">
+					<page begin="S136" end="S136" page_count="1">S136-S136</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">PEDIATRICS</title>
+					<title type="source_abbrev">PEDIATRICS</title>
+					<title type="abbrev_iso">Pediatrics</title>
+					<title type="abbrev_11">PEDIATRICS</title>
+					<title type="abbrev_29">PEDIATRICS</title>
+					<title type="item">Ionized serum calcium, not serum total magnesium, predicts outcome in neonatal hypoxic-ischemic encephalopathy</title>
+				</titles>
+				<names count="4">
+					<name addr_no="1" daisng_id="4279140" role="author" seq_no="1">
+						<display_name>Atwa, Hoda</display_name>
+						<full_name>Atwa, Hoda</full_name>
+						<wos_standard>Atwa, H</wos_standard>
+						<first_name>Hoda</first_name>
+						<last_name>Atwa</last_name>
+					</name>
+					<name addr_no="1" daisng_id="22898600" role="author" seq_no="2">
+						<display_name>Elshal, Hesham</display_name>
+						<full_name>Elshal, Hesham</full_name>
+						<wos_standard>Elshal, H</wos_standard>
+						<first_name>Hesham</first_name>
+						<last_name>Elshal</last_name>
+					</name>
+					<name addr_no="2" daisng_id="195307" role="author" seq_no="3">
+						<display_name>Ahmed, Amal S.</display_name>
+						<full_name>Ahmed, Amal S.</full_name>
+						<wos_standard>Ahmed, AS</wos_standard>
+						<first_name>Amal S.</first_name>
+						<last_name>Ahmed</last_name>
+					</name>
+					<name addr_no="3" daisng_id="50572965" role="author" seq_no="4">
+						<display_name>Matawie, Mohamed</display_name>
+						<full_name>Matawie, Mohamed</full_name>
+						<wos_standard>Matawie, M</wos_standard>
+						<first_name>Mohamed</first_name>
+						<last_name>Matawie</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Meeting Abstract</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>141 NORTH-WEST POINT BLVD,, ELK GROVE VILLAGE, IL 60007-1098 USA</full_address>
+							<city>ELK GROVE VILLAGE</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>AMER ACAD PEDIATRICS</display_name>
+								<full_name>AMER ACAD PEDIATRICS</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Abstract</doctype>
+				</normalized_doctypes>
+				<refs count="0"/>
+				<addresses count="3">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Suez Canal Univ, Fac Med, Dept Pediat, Ismailia, Egypt</full_address>
+							<organizations count="2">
+								<organization>Suez Canal Univ</organization>
+								<organization pref="Y">Suez Canal University</organization>
+							</organizations>
+							<suborganizations count="2">
+								<suborganization>Fac Med</suborganization>
+								<suborganization>Dept Pediat</suborganization>
+							</suborganizations>
+							<city>Ismailia</city>
+							<country>Egypt</country>
+						</address_spec>
+						<names count="2">
+							<name addr_no="1" daisng_id="4279140" role="author" seq_no="1">
+								<display_name>Atwa, Hoda</display_name>
+								<full_name>Atwa, Hoda</full_name>
+								<wos_standard>Atwa, H</wos_standard>
+								<first_name>Hoda</first_name>
+								<last_name>Atwa</last_name>
+							</name>
+							<name addr_no="1" daisng_id="22898600" role="author" seq_no="2">
+								<display_name>Elshal, Hesham</display_name>
+								<full_name>Elshal, Hesham</full_name>
+								<wos_standard>Elshal, H</wos_standard>
+								<first_name>Hesham</first_name>
+								<last_name>Elshal</last_name>
+							</name>
+						</names>
+					</address_name>
+					<address_name>
+						<address_spec addr_no="2">
+							<full_address>Suez Canal Univ, Fac Med, Dept Clin Pathol, Ismailia, Egypt</full_address>
+							<organizations count="2">
+								<organization>Suez Canal Univ</organization>
+								<organization pref="Y">Suez Canal University</organization>
+							</organizations>
+							<suborganizations count="2">
+								<suborganization>Fac Med</suborganization>
+								<suborganization>Dept Clin Pathol</suborganization>
+							</suborganizations>
+							<city>Ismailia</city>
+							<country>Egypt</country>
+						</address_spec>
+						<names count="1">
+							<name addr_no="2" daisng_id="195307" role="author" seq_no="3">
+								<display_name>Ahmed, Amal S.</display_name>
+								<full_name>Ahmed, Amal S.</full_name>
+								<wos_standard>Ahmed, AS</wos_standard>
+								<first_name>Amal S.</first_name>
+								<last_name>Ahmed</last_name>
+							</name>
+						</names>
+					</address_name>
+					<address_name>
+						<address_spec addr_no="3">
+							<full_address>Suez Canal Univ, Fac Med, Dept Gynecol &amp; Obstet, Ismailia, Egypt</full_address>
+							<organizations count="2">
+								<organization>Suez Canal Univ</organization>
+								<organization pref="Y">Suez Canal University</organization>
+							</organizations>
+							<suborganizations count="2">
+								<suborganization>Fac Med</suborganization>
+								<suborganization>Dept Gynecol &amp; Obstet</suborganization>
+							</suborganizations>
+							<city>Ismailia</city>
+							<country>Egypt</country>
+						</address_spec>
+						<names count="1">
+							<name addr_no="3" daisng_id="50572965" role="author" seq_no="4">
+								<display_name>Matawie, Mohamed</display_name>
+								<full_name>Matawie, Mohamed</full_name>
+								<wos_standard>Matawie, M</wos_standard>
+								<first_name>Mohamed</first_name>
+								<last_name>Matawie</last_name>
+							</name>
+						</names>
+					</address_name>
+				</addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Science &amp; Technology</heading>
+					</headings>
+					<subheadings count="1">
+						<subheading>Life Sciences &amp; Biomedicine</subheading>
+					</subheadings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="TQ">Pediatrics</subject>
+						<subject ascatype="extended">Pediatrics</subject>
+						<subject ascatype="traditional" code="TQ">PEDIATRICS</subject>
+					</subjects>
+				</category_info>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="N">271MK</ids>
+				<bib_id>121: S136-S136 Suppl. S JAN 2008</bib_id>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="0"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0031-4005"/>
+					<identifier type="xref_doi" value="10.1542/peds.2007-2022DDDDD"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+</records>
