@@ -1,6 +1,8 @@
 import xmltodict, json
 import sys
 from bs4 import BeautifulSoup
+from wos import WosClient
+import wos.utils
 
 class Wos():
 
@@ -13,12 +15,16 @@ class Wos():
 
 
 def main():
-    file = "./recordForAbrahms"
+    user='Ahmed, Amal'
+    # with WosClient(user='singh.saurab@husky.neu.edu',
+    #                password='Chanchala13.') as  client:
+    #     filename = (wos.utils.query(client, 'AU=%s'), user)
+    file = "recordForAbrahms"
     infile = open(file)
     contents = infile.read()
     client=Wos()
-    json=client.convertXMLToJson(contents)
-    print (json)
+    Json=client.convertXMLToJson(contents)
+    print (type(json.loads(Json)))
 
 
 
