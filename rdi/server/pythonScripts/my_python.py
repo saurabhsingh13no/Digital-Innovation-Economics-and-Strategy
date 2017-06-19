@@ -2,6 +2,8 @@
 import web
 import xmltodict, json
 import xml.etree.ElementTree as ET
+from wos import WosClient
+import wos.utils
 
 tree = ET.parse('user_data.xml')
 root = tree.getroot()
@@ -28,15 +30,18 @@ class get_user:
         o = xmltodict.parse(contents)
         return json.dumps(o)
 
-    def fetchJson(self):
-        file = "../../../recordForAbrahms"
-        infile = open(file)
+    def fetchJson(self,user):
+        with WosClient(user='singh.saurab@husky.neu.edu',
+                       password='Chanchala13.') as  client:
+            filename=(wos.utils.query(client, 'AU=%s'),user)
+        # file = "../../../recordForAbrahms"
+        infile = open(filename)
         contents = infile.read()
-        json = self.convertXMLToJson(contents)
-        return json
+        Json = self.convertXMLToJson(contents)
+        return json.loads(Json)
 
     def GET(self, user):
-        return self.fetchJson()
+        return self.fetchJson(user)
 
 if __name__ == "__main__":
     app.run()

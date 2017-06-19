@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<records>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000255439900003</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="SPR 2008" has_abstract="Y" issue="4" pubmonth="SPR" pubtype="Journal" pubyear="2008" sortdate="2008-03-01" vol="32">
+					<page begin="78" end="+" page_count="29">78-+</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">INTERNATIONAL SECURITY</title>
+					<title type="source_abbrev">INT SECURITY</title>
+					<title type="abbrev_iso">Int. Secur.</title>
+					<title type="abbrev_11">INT SECUR</title>
+					<title type="abbrev_29">INT SECURITY</title>
+					<title type="item">What terrorists really want</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" reprint="Y" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Review</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>238 MAIN STREET, STE 500, CAMBRIDGE, MA 02142-1046 USA</full_address>
+							<city>CAMBRIDGE</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>M I T PRESS</display_name>
+								<full_name>M I T PRESS</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Review</doctype>
+				</normalized_doctypes>
+				<refs count="119"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Abrahms, Max</display_name>
+								<full_name>Abrahms, Max</full_name>
+								<wos_standard>Abrahms, M</wos_standard>
+								<first_name>Max</first_name>
+								<last_name>Abrahms</last_name>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>What do terrorists want? No question is more fundamental for devising an effective counterterrorism strategy. The international community cannot expect to make terrorism unprofitable and thus scarce without knowing the incentive structure of its practitioners. The strategic model-the dominant paradigm in terrorism studies-posits that terrorists are political utility maximizers. According to this view, individuals resort to terrorism when the expected political gains minus the expected costs outweigh the net expected benefits of alternative forms of protest. The strategic model has widespread currency in the policy community; extant counterterrorism strategies seek to defeat terrorism by reducing its political utility The most common strategies are to fight terrorism by decreasing its political benefits via a strict no concessions policy; decreasing its prospective political benefits via appeasement; or decreasing its political benefits relative to nonviolence via democracy promotion. Despite its policy relevance, the strategic model has not been tested. This is the first study to comprehensively assess its empirical validity. The actual record of terrorist behavior does not conform to the strategic model's premise that terrorists are rational actors primarily motivated to achieving political ends. The preponderance of empirical and theoretical evidence is that terrorists are rational people who use terrorism primarily to develop strong affective ties with fellow terrorists. Major revisions in both the dominant paradigm in terrorism studies and the policy community's basic approach to fighting terrorism are consequently in order.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">294XP</ids>
+				<bib_id>32 (4): 78-+ SPR 2008</bib_id>
+				<keywords_plus count="8">
+					<keyword>CONFLICT</keyword>
+					<keyword>ASSUMPTIONS</keyword>
+					<keyword>POLITICS</keyword>
+					<keyword>MODELS</keyword>
+					<keyword>STATES</keyword>
+					<keyword>PEACE</keyword>
+					<keyword>POWER</keyword>
+					<keyword>WAR</keyword>
+				</keywords_plus>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="84"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0162-2889"/>
+					<identifier type="xref_doi" value="10.1162/isec.2008.32.4.78"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+</records>
