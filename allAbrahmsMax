@@ -1,0 +1,672 @@
+<?xml version="1.0" ?>
+<records>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000255439900003</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="SPR 2008" has_abstract="Y" issue="4" pubmonth="SPR" pubtype="Journal" pubyear="2008" sortdate="2008-03-01" vol="32">
+					<page begin="78" end="+" page_count="29">78-+</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">INTERNATIONAL SECURITY</title>
+					<title type="source_abbrev">INT SECURITY</title>
+					<title type="abbrev_iso">Int. Secur.</title>
+					<title type="abbrev_11">INT SECUR</title>
+					<title type="abbrev_29">INT SECURITY</title>
+					<title type="item">What terrorists really want</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" reprint="Y" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Review</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>238 MAIN STREET, STE 500, CAMBRIDGE, MA 02142-1046 USA</full_address>
+							<city>CAMBRIDGE</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>M I T PRESS</display_name>
+								<full_name>M I T PRESS</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Review</doctype>
+				</normalized_doctypes>
+				<refs count="119"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Abrahms, Max</display_name>
+								<full_name>Abrahms, Max</full_name>
+								<wos_standard>Abrahms, M</wos_standard>
+								<first_name>Max</first_name>
+								<last_name>Abrahms</last_name>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>What do terrorists want? No question is more fundamental for devising an effective counterterrorism strategy. The international community cannot expect to make terrorism unprofitable and thus scarce without knowing the incentive structure of its practitioners. The strategic model-the dominant paradigm in terrorism studies-posits that terrorists are political utility maximizers. According to this view, individuals resort to terrorism when the expected political gains minus the expected costs outweigh the net expected benefits of alternative forms of protest. The strategic model has widespread currency in the policy community; extant counterterrorism strategies seek to defeat terrorism by reducing its political utility The most common strategies are to fight terrorism by decreasing its political benefits via a strict no concessions policy; decreasing its prospective political benefits via appeasement; or decreasing its political benefits relative to nonviolence via democracy promotion. Despite its policy relevance, the strategic model has not been tested. This is the first study to comprehensively assess its empirical validity. The actual record of terrorist behavior does not conform to the strategic model's premise that terrorists are rational actors primarily motivated to achieving political ends. The preponderance of empirical and theoretical evidence is that terrorists are rational people who use terrorism primarily to develop strong affective ties with fellow terrorists. Major revisions in both the dominant paradigm in terrorism studies and the policy community's basic approach to fighting terrorism are consequently in order.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">294XP</ids>
+				<bib_id>32 (4): 78-+ SPR 2008</bib_id>
+				<keywords_plus count="8">
+					<keyword>CONFLICT</keyword>
+					<keyword>ASSUMPTIONS</keyword>
+					<keyword>POLITICS</keyword>
+					<keyword>MODELS</keyword>
+					<keyword>STATES</keyword>
+					<keyword>PEACE</keyword>
+					<keyword>POWER</keyword>
+					<keyword>WAR</keyword>
+				</keywords_plus>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="84"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0162-2889"/>
+					<identifier type="xref_doi" value="10.1162/isec.2008.32.4.78"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000248048200007</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="SUM 2007" has_abstract="N" issue="1" pubmonth="SUM" pubtype="Journal" pubyear="2007" sortdate="2007-06-01" vol="32">
+					<page begin="189" end="192" page_count="4">189-192</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">INTERNATIONAL SECURITY</title>
+					<title type="source_abbrev">INT SECURITY</title>
+					<title type="abbrev_iso">Int. Secur.</title>
+					<title type="abbrev_11">INT SECUR</title>
+					<title type="abbrev_29">INT SECURITY</title>
+					<title type="item">Does terrorism ever work? The 2004 Madrid train bombings - Reply</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Letter</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>238 MAIN STREET, STE 500, CAMBRIDGE, MA 02142-1046 USA</full_address>
+							<city>CAMBRIDGE</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>M I T PRESS</display_name>
+								<full_name>M I T PRESS</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Letter</doctype>
+				</normalized_doctypes>
+				<refs count="13"/>
+				<addresses count="0"/>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+					</subjects>
+				</category_info>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">190GV</ids>
+				<bib_id>32 (1): 189-192 SUM 2007</bib_id>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="2"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0162-2889"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000247779900003</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="APR-JUN 2007" has_abstract="Y" issue="2" pubmonth="APR-JUN" pubtype="Journal" pubyear="2007" sortdate="2007-04-01" vol="16">
+					<page begin="223" end="253" page_count="31">223-253</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">SECURITY STUDIES</title>
+					<title type="source_abbrev">SECUR STUD</title>
+					<title type="abbrev_iso">Secur. Stud.</title>
+					<title type="abbrev_11">SECUR STUD</title>
+					<title type="abbrev_29">SECUR STUD</title>
+					<title type="item">Why democracies make superior counterterrorists</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" reprint="Y" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Article</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND</full_address>
+							<city>ABINGDON</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>ROUTLEDGE JOURNALS, TAYLOR &amp; FRANCIS LTD</display_name>
+								<full_name>ROUTLEDGE JOURNALS, TAYLOR &amp; FRANCIS LTD</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Article</doctype>
+				</normalized_doctypes>
+				<refs count="73"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Abrahms, Max</display_name>
+								<full_name>Abrahms, Max</full_name>
+								<wos_standard>Abrahms, M</wos_standard>
+								<first_name>Max</first_name>
+								<last_name>Abrahms</last_name>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>The conventional wisdom is that terrorists tend to target democracies because they are uniquely vulnerable to coercion. Terrorists are able to coerce democracies into acceding to their policy demands because liberal countries suffer from two inherent counterterrorism constraints: (1) the commitment to civil liberties prevents democracies from adopting sufficiently harsh countermeasures to eradicate the terrorism threat, and (2) their low civilian cost tolerance limits their ability to withstand attacks on their civilian populations. This article tests both propositions of the conventional wisdom that (a) terrorists attack democracies over other regime types because (b) liberal constraints render democracies vulnerable to coercion. The data do not sustain either proposition.. illiberal countries are the victims of a disproportionate number of terrorist incidents and fatalities, and liberal countries are substantially less likely to make policy concessions to terrorists, particularly on issues of maximal importance. A plausibility probe is then developed to explain why democracies have a superior track record against terrorists. The basic argument is that liberal countries are comparatively resistant to coercion-and hence inferior targets-because they are superior counterterrorists. Liberalism's commitment to civil liberties and low civilian cost tolerance are, in the aggregate, actually strategic assets that help democracies prevail in counterterrorist campaigns, thereby reducing the incentives for terrorists to target this regime type. These findings have important implications for how democracies can defend their liberal values and physical security in the age of terrorism.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">186LJ</ids>
+				<bib_id>16 (2): 223-253 APR-JUN 2007</bib_id>
+				<keywords_plus count="1">
+					<keyword>WAR</keyword>
+				</keywords_plus>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="40"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0963-6412"/>
+					<identifier type="doi" value="10.1080/09636410701399424"/>
+					<identifier type="xref_doi" value="10.1080/09636410701399424"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000241457200002</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="FAL 2006" has_abstract="Y" issue="2" pubmonth="FAL" pubtype="Journal" pubyear="2006" sortdate="2006-09-01" vol="31">
+					<page begin="42" end="+" page_count="39">42-+</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">INTERNATIONAL SECURITY</title>
+					<title type="source_abbrev">INT SECURITY</title>
+					<title type="abbrev_iso">Int. Secur.</title>
+					<title type="abbrev_11">INT SECUR</title>
+					<title type="abbrev_29">INT SECURITY</title>
+					<title type="item">Why terrorism does not work</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" reprint="Y" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Article</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>238 MAIN STREET, STE 500, CAMBRIDGE, MA 02142-1046 USA</full_address>
+							<city>CAMBRIDGE</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>M I T PRESS</display_name>
+								<full_name>M I T PRESS</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Article</doctype>
+				</normalized_doctypes>
+				<refs count="90"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Harvard Univ, John F Kennedy Sch Govt, Belfer Ctr Sci &amp; Int Affairs, Cambridge, MA 02138 USA</full_address>
+							<organizations count="2">
+								<organization>Harvard Univ</organization>
+								<organization pref="Y">Harvard University</organization>
+							</organizations>
+							<suborganizations count="2">
+								<suborganization>John F Kennedy Sch Govt</suborganization>
+								<suborganization>Belfer Ctr Sci &amp; Int Affairs</suborganization>
+							</suborganizations>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<country>USA</country>
+							<zip location="AP">02138</zip>
+						</address_spec>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Univ Calif Los Angeles, Los Angeles, CA 90024 USA</full_address>
+							<organizations count="3">
+								<organization>Univ Calif Los Angeles</organization>
+								<organization pref="Y">University of California Los Angeles</organization>
+								<organization pref="Y">University of California System</organization>
+							</organizations>
+							<city>Los Angeles</city>
+							<state>CA</state>
+							<country>USA</country>
+							<zip location="AP">90024</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Abrahms, Max</display_name>
+								<full_name>Abrahms, Max</full_name>
+								<wos_standard>Abrahms, M</wos_standard>
+								<first_name>Max</first_name>
+								<last_name>Abrahms</last_name>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="3">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>This is the first article to analyze a large sample of terrorist groups in terms of their policy effectiveness. It includes every foreign terrorist organization (FrO) designated by the U.S. Department of State since 2001. The key variable for FTO success is a tactical one: target selection. Terrorist groups whose attacks on civilian targets outnumber attacks on military targets do not tend to achieve their policy objectives, regardless of their nature. Contrary to the prevailing view that terrorism is an effective means of political coercion, the universe of cases suggests that, first, contemporary terrorist groups rarely achieve their policy objectives and, second, the poor success rate is inherent to the tactic of terrorism itself. The bulk of the article develops a theory for why countries are reluctant to make policy concessions when their civilian populations are the primary target.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="Y">097OI</ids>
+				<bib_id>31 (2): 42-+ FAL 2006</bib_id>
+				<keywords_plus count="3">
+					<keyword>MEDIATION</keyword>
+					<keyword>ISSUES</keyword>
+					<keyword>ENEMY</keyword>
+				</keywords_plus>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="112"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="0162-2889"/>
+					<identifier type="xref_doi" value="10.1162/isec.2006.31.2.42"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+	<REC r_id_disclaimer="ResearcherID data provided by Thomson Reuters">
+		<UID>WOS:000240188800006</UID>
+		<static_data>
+			<summary>
+				<EWUID>
+					<WUID coll_id="WOS"/>
+					<edition value="WOS.SSCI"/>
+				</EWUID>
+				<pub_info coverdate="JUL-AUG 2006" has_abstract="Y" issue="5" pubmonth="JUL-AUG" pubtype="Journal" pubyear="2006" sortdate="2006-07-01" vol="29">
+					<page begin="509" end="529" page_count="21">509-529</page>
+				</pub_info>
+				<titles count="6">
+					<title type="source">STUDIES IN CONFLICT &amp; TERRORISM</title>
+					<title type="source_abbrev">STUD CONFL TERROR</title>
+					<title type="abbrev_iso">Stud. Confl. Terror.</title>
+					<title type="abbrev_11">STUD CON TE</title>
+					<title type="abbrev_29">STUD CONFL TERROR</title>
+					<title type="item">Al Qaeda's scorecard: A progress report on Al Qaeda's objectives</title>
+				</titles>
+				<names count="1">
+					<name daisng_id="365780" reprint="Y" role="author" seq_no="1">
+						<display_name>Abrahms, Max</display_name>
+						<full_name>Abrahms, Max</full_name>
+						<wos_standard>Abrahms, M</wos_standard>
+						<first_name>Max</first_name>
+						<last_name>Abrahms</last_name>
+						<email_addr>mabrahms@ucia.edu</email_addr>
+					</name>
+				</names>
+				<doctypes count="1">
+					<doctype>Article</doctype>
+				</doctypes>
+				<publishers>
+					<publisher>
+						<address_spec addr_no="1">
+							<full_address>325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA</full_address>
+							<city>PHILADELPHIA</city>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" role="publisher" seq_no="1">
+								<display_name>TAYLOR &amp; FRANCIS INC</display_name>
+								<full_name>TAYLOR &amp; FRANCIS INC</full_name>
+							</name>
+						</names>
+					</publisher>
+				</publishers>
+			</summary>
+			<fullrecord_metadata>
+				<languages count="1">
+					<language type="primary">English</language>
+				</languages>
+				<normalized_languages count="1">
+					<language type="primary">English</language>
+				</normalized_languages>
+				<normalized_doctypes count="1">
+					<doctype>Article</doctype>
+				</normalized_doctypes>
+				<refs count="81"/>
+				<addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>Harvard Univ, Belfer Ctr Sci &amp; Int Affairs, Cambridge, MA 02138 USA</full_address>
+							<organizations count="2">
+								<organization>Harvard Univ</organization>
+								<organization pref="Y">Harvard University</organization>
+							</organizations>
+							<suborganizations count="1">
+								<suborganization>Belfer Ctr Sci &amp; Int Affairs</suborganization>
+							</suborganizations>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<country>USA</country>
+							<zip location="AP">02138</zip>
+						</address_spec>
+					</address_name>
+				</addresses>
+				<reprint_addresses count="1">
+					<address_name>
+						<address_spec addr_no="1">
+							<full_address>375 Harvard St,Apartment 8, Cambridge, MA 02138 USA</full_address>
+							<street>375 Harvard St,Apartment 8</street>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<country>USA</country>
+							<zip location="AP">02138</zip>
+						</address_spec>
+						<names count="1">
+							<name addr_no="1" reprint="Y" role="author" seq_no="1">
+								<display_name>Abrahms, Max</display_name>
+								<full_name>Abrahms, Max</full_name>
+								<wos_standard>Abrahms, M</wos_standard>
+								<first_name>Max</first_name>
+								<last_name>Abrahms</last_name>
+								<email_addr>mabrahms@ucia.edu</email_addr>
+							</name>
+						</names>
+					</address_name>
+				</reprint_addresses>
+				<category_info>
+					<headings count="1">
+						<heading>Social Sciences</heading>
+					</headings>
+					<subjects count="6">
+						<subject ascatype="traditional" code="OE">International Relations</subject>
+						<subject ascatype="traditional" code="UU">Political Science</subject>
+						<subject ascatype="extended">International Relations</subject>
+						<subject ascatype="extended">Government &amp; Law</subject>
+						<subject ascatype="traditional" code="OE">INTERNATIONAL RELATIONS</subject>
+						<subject ascatype="traditional" code="UU">POLITICAL SCIENCE</subject>
+					</subjects>
+				</category_info>
+				<abstracts count="1">
+					<abstract>
+						<abstract_text count="1">
+							<p>Terrorism scholars are divided over whether terrorism is an effective tactic. Disagreement derives from the fact that the objectives of terrorist groups are often highly contested. Nowhere is this clearer than in contemporary statements on Al Qaeda. This article explores the most common interpretations for why Al Qaeda attacked the United States on 11 September 2001, and then analyzes their empirical support. After determining the most compelling interpretation of Al Qaeda's objectives, the article evaluates Al Qaeda's success in achieving them since perpetrating this watershed attack. The following analysis provides a timely case study in the classic debate over whether terrorism is strategically rational behavior.</p>
+						</abstract_text>
+					</abstract>
+				</abstracts>
+			</fullrecord_metadata>
+			<item coll_id="WOS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="itemType_wos">
+				<ids avail="N">079PH</ids>
+				<bib_id>29 (5): 509-529 JUL-AUG 2006</bib_id>
+				<bib_pagecount type="Journal">140</bib_pagecount>
+				<keywords_plus count="1">
+					<keyword>TERRORISM</keyword>
+				</keywords_plus>
+			</item>
+		</static_data>
+		<dynamic_data>
+			<citation_related>
+				<tc_list>
+					<silo_tc coll_id="WOS" local_count="13"/>
+				</tc_list>
+			</citation_related>
+			<cluster_related>
+				<identifiers>
+					<identifier type="issn" value="1057-610X"/>
+					<identifier type="doi" value="10.1080/10576100600698527"/>
+					<identifier type="xref_doi" value="10.1080/10576100600698527"/>
+				</identifiers>
+			</cluster_related>
+		</dynamic_data>
+	</REC>
+	
+
+</records>
