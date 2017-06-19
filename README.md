@@ -3,10 +3,6 @@ A Research Project
 
 ## Extracted Data using WOS API
    * A sample of extracted data using **WOS API**. The technologies used is Python. 
+
    
-   | S.no | Title | Authors | Published | Abstract | Publisher | Accession no|
-   |----------- |:------:|:------:|:------:|:------:|:------:|:------:|
-   | 1 | African-American response rate to therapy for hepatitis C. | Fleckenstein, JF, Ismail, MK, Bockhold, K, VanLeeuwen, D, Riely, CA, Waters, B, S Cent Liver Study Grp  | 1998-10-01 |   | W B SAUNDERS CO, INDEPENDENCE SQUARE WEST CURTIS CENTER, STE 300, PHILADELPHIA, PA 19106-3399 USA | WOS:000076258100483 | 
-   | 2 | 
-   
-![Figure 1-1](https://github.com/saurabhsingh13no/Digital-Innovation-Economics-and-Strategy/blob/master/dataframe.png "Figure 1-1")
+![DataFramea](https://github.com/saurabhsingh13no/Digital-Innovation-Economics-and-Strategy/blob/master/dataframe.png "Figure 1-1")
